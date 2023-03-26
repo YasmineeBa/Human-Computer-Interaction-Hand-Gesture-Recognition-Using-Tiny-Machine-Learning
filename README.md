@@ -15,5 +15,5 @@ To set the communication between the two Arduino, we use the UART  (Universal As
 It allows an asynchronous serial communication in which the data format and transmission speed are configurable .
 
 ## link of the video demo
-Our présentation start at 29min.10s from the link bellow: <\br>
+Our présentation start at 29min.10s from this link: 
 https://youtu.be/e49pkjnIMlQ
