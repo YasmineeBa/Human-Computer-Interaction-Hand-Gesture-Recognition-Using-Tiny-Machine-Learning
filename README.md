@@ -4,13 +4,20 @@ Many nowadays’ platforms such as interactive environments require more natural
 Therfore, Accurate interactions between humans and machines can be achieved using hand gestures.
 the solution is simulating the interaction with a game using gestures recognition.
 
+
 Using two Nano 33 BLE Sense Arduino , we propose to control a game control with some gestures:
 -jumping 
+
 -moving left 
+
 -Moving right 
+
 -Shooting 
+
 -Protecting
+
 -Speed
+
 To set the communication between the two Arduino, we use the UART  (Universal Asynchronous Receiver-Transmitter) communication protocol.
 It allows an asynchronous serial communication in which the data format and transmission speed are configurable .
 
