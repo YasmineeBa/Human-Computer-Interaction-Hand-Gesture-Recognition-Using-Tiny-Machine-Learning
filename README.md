@@ -6,7 +6,9 @@ the solution is simulating the interaction with a game using gestures recognitio
 
 
 Using two Nano 33 BLE Sense Arduino , we propose to control a game control with some gestures:
+
 -jumping 
+
 
 -moving left 
 
