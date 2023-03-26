@@ -14,6 +14,6 @@ Using two Nano 33 BLE Sense Arduino , we propose to control a game control with 
 To set the communication between the two Arduino, we use the UART  (Universal Asynchronous Receiver-Transmitter) communication protocol.
 It allows an asynchronous serial communication in which the data format and transmission speed are configurable .
 
-#link of the video demo
+## link of the video demo
 Our présentation start at 29min.10s from the link bellow:
 https://youtu.be/e49pkjnIMlQ
