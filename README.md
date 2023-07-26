@@ -4,7 +4,7 @@ The traditional input methods such as keyboard, mouse, and controllers, have lim
 promising approach as it allows users to interact with the devices in a way that mimics their natural body language.
 This project utilizes two "Arduino Nano 33 BLE Sense" devices to recognize hand gestures and translate them into game controls, which would enable users to perform actions such as jumping, moving left or right, shooting, protecting, and adjusting speed by making hand gestures.
 The proposed solution has the potential to enhance user experience, especially in interactive environments such as gaming or smart homes, where intuitive and natural interaction is highly desirable.
-## Here is the link to our project that was published in a magazine for computer vision.
+## Here is the link to our project that was published in a magazine for computer vision:
 https://perso.usthb.dz/~slarabi/pdf1/Visual%20Computing3_5.pdf
 
 ## Here is the link of our international representation:
