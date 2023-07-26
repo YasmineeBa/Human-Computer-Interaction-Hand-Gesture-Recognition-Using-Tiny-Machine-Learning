@@ -1,28 +1,12 @@
 # Human-Computer-Interaction-Hand-Gesture-Recognition-Using-Tiny-Machine-Learning
 
-Many nowadays’ platforms such as interactive environments require more natural and intuitive user interaction, such as hand gestures. 
-Therfore, Accurate interactions between humans and machines can be achieved using hand gestures.
-the solution is simulating the interaction with a game using gestures recognition.
+The traditional input methods such as keyboard, mouse, and controllers, have limitations in terms of flexibility and intuitiveness, which may not cater to all users. This project aims to overcome these limitations by proposing a more natural and intuitive way of interacting with electronic devices. Recognizing hand gestures is a
+promising approach as it allows users to interact with the devices in a way that mimics their natural body language.
+This project utilizes two "Arduino Nano 33 BLE Sense" devices to recognize hand gestures and translate them into game controls, which would enable users to perform actions such as jumping, moving left or right, shooting, protecting, and adjusting speed by making hand gestures.
+The proposed solution has the potential to enhance user experience, especially in interactive environments such as gaming or smart homes, where intuitive and natural interaction is highly desirable.
+## link of our project that is published in a magazine for computer vision
+https://perso.usthb.dz/~slarabi/pdf1/Visual%20Computing3_5.pdf
 
-
-Using two Nano 33 BLE Sense Arduino , we propose to control a game control with some gestures:
-
--jumping 
-
-
--moving left 
-
--Moving right 
-
--Shooting 
-
--Protecting
-
--Speed
-
-To set the communication between the two Arduino, we use the UART  (Universal Asynchronous Receiver-Transmitter) communication protocol.
-It allows an asynchronous serial communication in which the data format and transmission speed are configurable .
-
-## link of the video demo
+## link of our international resentation
 Our présentation start at 29min.10s from this link: 
 https://youtu.be/e49pkjnIMlQ
